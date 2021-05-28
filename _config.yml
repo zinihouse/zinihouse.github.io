@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+title: "찌니하우스"
+description: "찌니의 개인 블로그"
+permalink: post/:title
+url: https://zinihouse.github.io
+tag_order: [msoffice]
+
+markdown: kramdown
+kramdown:
+    syntax_highlighter_opts:
+        disable: true
